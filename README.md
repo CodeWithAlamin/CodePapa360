@@ -2,12 +2,12 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CodePapa360) [![X](https://img.shields.io/badge/twitter-black.svg?logo=X&logoColor=white)](https://x.com/CodePapa360) [![X](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:contact.codepapa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CodeWithAlamin) [![X](https://img.shields.io/badge/twitter-black.svg?logo=X&logoColor=white)](https://x.com/CodeWithAlamin) [![X](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:codewithalamin@gmail.com)
 
 </div>
 
 <h2 align="center">
-  <a href="https://alamin-dev.vercel.app" target="_blank">
+  <a href="https://codewithalamin.com" target="_blank">
    Portfolio 🖱️
   </a>
 </h2>
@@ -45,28 +45,28 @@ My focus isn’t just on getting things done—it’s about doing them well and 
 
 ## Projects 🚀
 
-- **[Convayto](https://github.com/codepapa360/convayto)**: A real-time chat app built with React.js and Supabase, featuring user authentication, profile management, and chat functionalities.
-- **[The Wild Oasis](https://github.com/codepapa360/the-wild-oasis)**: A full-featured hotel management app allowing employees to manage cabins, bookings, and guests.
-- **[Friends TV Series](https://github.com/CodePapa360/Friends-TvSeries-Site)**: A JavaScript-only project offering free access to all 'Friends' episodes.
-- **[Interactive Comments Section](https://github.com/codepapa360/interactive-comments-section)**: A dynamic web app for managing comments with features for CRUD operations, replies, and voting.
-- **[Fast React Pizza](https://github.com/CodePapa360/Fast-React-Pizza-App)**: A pizza ordering app integrating a third-party API, allowing users to order pizzas, view order status, and search for orders.
-- **[IP Address Tracker](https://github.com/codepapa360/ip-address-tracker)**: A responsive app for searching IP addresses and domains with geolocation data displayed on an interactive map.
+- **[Convayto](https://github.com/CodeWithAlamin/convayto)**: A real-time chat app built with React.js and Supabase, featuring user authentication, profile management, and chat functionalities.
+- **[The Wild Oasis](https://github.com/CodeWithAlamin/the-wild-oasis)**: A full-featured hotel management app allowing employees to manage cabins, bookings, and guests.
+- **[Friends TV Series](https://github.com/CodeWithAlamin/Friends-TvSeries-Site)**: A JavaScript-only project offering free access to all 'Friends' episodes.
+- **[Interactive Comments Section](https://github.com/CodeWithAlamin/interactive-comments-section)**: A dynamic web app for managing comments with features for CRUD operations, replies, and voting.
+- **[Fast React Pizza](https://github.com/CodeWithAlamin/Fast-React-Pizza-App)**: A pizza ordering app integrating a third-party API, allowing users to order pizzas, view order status, and search for orders.
+- **[IP Address Tracker](https://github.com/CodeWithAlamin/ip-address-tracker)**: A responsive app for searching IP addresses and domains with geolocation data displayed on an interactive map.
 
 ## Let's Connect 🤝
 
-I'm excited to connect with developers, designers, or anyone passionate about technology. Feel free to drop me an email at [contact.codepapa@gmail.com](mailto:contact.codepapa@gmail.com) 💌. Let's explore new opportunities and create something amazing together!
+I'm excited to connect with developers, designers, or anyone passionate about technology. Feel free to drop me an email at [codewithalamin@gmail.com](mailto:codewithalamin@gmail.com) 💌. Let's explore new opportunities and create something amazing together!
 
 Connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/codepapa360)
-- [Twitter](https://twitter.com/CodePapa360)
+- [LinkedIn](https://www.linkedin.com/in/CodeWithAlamin)
+- [Twitter](https://twitter.com/CodeWithAlamin)
 
 <br/>
 <br/>
 
 <div align="center">
 
-[![Alamin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CodePapa360&show_icons=true&theme=tokyonight&count_private=true#gh-dark-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-dark-mode-only)
-[![Alamin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=CodePapa360&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/codepapa360/github-readme-stats#gh-light-mode-only)
+[![Alamin's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CodeWithAlamin&show_icons=true&theme=tokyonight&count_private=true#gh-dark-mode-only)](https://github.com/CodeWithAlamin/github-readme-stats#gh-dark-mode-only)
+[![Alamin's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=CodeWithAlamin&show_icons=true&theme=default&count_private=true#gh-light-mode-only)](https://github.com/CodeWithAlamin/github-readme-stats#gh-light-mode-only)
 
 </div>
