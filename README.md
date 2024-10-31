@@ -46,11 +46,11 @@ My focus isn’t just on getting things done—it’s about doing them well and 
 ## Projects 🚀
 
 - **[Convayto](https://github.com/CodeWithAlamin/convayto)**: A real-time chat app built with React.js and Supabase, featuring user authentication, profile management, and chat functionalities.
-- **[The Wild Oasis](https://github.com/CodeWithAlamin/the-wild-oasis)**: A full-featured hotel management app allowing employees to manage cabins, bookings, and guests.
+- **[The Wild Oasis - (Admin)](https://github.com/CodeWithAlamin/the-wild-oasis)**: A full-featured hotel management app allowing employees to manage cabins, bookings, and guests.
 - **[Friends TV Series](https://github.com/CodeWithAlamin/Friends-TvSeries-Site)**: A JavaScript-only project offering free access to all 'Friends' episodes.
-- **[Interactive Comments Section](https://github.com/CodeWithAlamin/interactive-comments-section)**: A dynamic web app for managing comments with features for CRUD operations, replies, and voting.
+- **[Forkify Recipe App](https://github.com/CodeWithAlamin/Forkify-Recipe-App)**: A recipe search and saving web app. Implemented advanced JavaScript concepts like asynchronous programming, ES6 modules, and object-oriented programming.
 - **[Fast React Pizza](https://github.com/CodeWithAlamin/Fast-React-Pizza-App)**: A pizza ordering app integrating a third-party API, allowing users to order pizzas, view order status, and search for orders.
-- **[IP Address Tracker](https://github.com/CodeWithAlamin/ip-address-tracker)**: A responsive app for searching IP addresses and domains with geolocation data displayed on an interactive map.
+- **[The Wild Oasis - (Customer)](https://github.com/CodeWithAlamin/The-Wild-Oasis-Booking)**: A hotel booking web app where customers can book cabins, manage bookings, and update profiles with Google sign-in and Supabase integration.
 
 ## Let's Connect 🤝
 
